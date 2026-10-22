@@ -9,8 +9,6 @@ An end-to-end B2B SaaS marketing attribution project: Excel -> SQL Server -> Pow
 
 ## Dashboard
 
-| Journey Overview | Attribution Comparison |
-|---|---|
 Journey Overview <img width="1327" height="746" alt="Marketing journey intelligence" src="https://github.com/user-attachments/assets/acc7ee8f-d941-4cb4-9500-8ddea8179632" />
  Attribution Comparison <img width="1327" height="740" alt="Attribution Comparison" src="https://github.com/user-attachments/assets/d33e91a5-84e8-4254-a779-b80f48d3d3a8" />
 Journey Intelligence <img width="1327" height="740" alt="Journey Intelligence" src="https://github.com/user-attachments/assets/87369be6-8be8-4cc0-ab58-a6ef565d8227" />
